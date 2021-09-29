@@ -1,4 +1,4 @@
-# Beautiful Train Routes of India
+# Scenic Train Routes of India
 
 #### Shornur - Nilambur
  - <img src="https://en.wikipedia.org/static/favicon/wikipedia.ico" width=16px> [Nilambur - Shornur Line](https://en.wikipedia.org/wiki/Nilambur%E2%80%93Shoranur_line)
